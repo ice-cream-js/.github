@@ -1,5 +1,5 @@
 <p align=center>
-<img src="logo.png">
+<img src="https://github.com/ice-cream-js/.github/blob/main/profile/logo.png">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/npm-false-red"> <img src="https://img.shields.io/badge/cli-coming_soon-blue"> <img src="https://img.shields.io/badge/developer-myfer-green"> <br><img src="https://img.shields.io/badge/builds-passing-brightgreen"> <img src="https://img.shields.io/badge/release-v1.0.0-brightgreen">
